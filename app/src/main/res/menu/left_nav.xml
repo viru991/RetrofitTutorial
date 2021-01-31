@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home"
+        android:title="Home"/>
+
+    <item android:id="@+id/menu_add_meeting"
+        android:icon="@drawable/ic_add_meeting"
+        android:title="Add Meeting"
+        />
+
+    <item android:id="@+id/menu_Update_meeting_date"
+        android:icon="@drawable/ic_umeeting_date"
+        android:title="Update Meeting Date"/>
+
+    <item android:id="@+id/menu_Update_meeting_time"
+        android:icon="@drawable/ic_umeeting_time"
+        android:title="Update Meeting Time"/>
+
+    <item android:id="@+id/menu_Update_meeting_venue"
+        android:icon="@drawable/ic_umeeting_venue"
+        android:title="Update Meeting Venue"/>
+
+    <item android:id="@+id/menu_Update_delete_meeting"
+        android:icon="@drawable/ic_delete_meeting"
+        android:title="Dalete Meeting"/>
+
+</menu>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RetrofitTutorial</string>
+    <string name="heading">Create new Account</string>
+    <string name="name">name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_registerd_create_your_account">Not Registerd ? Create your Account</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="nic">National Informatics Centre</string>
+    <string name="nicaddress">MIT, Government of India, New Delhi.</string>
+    <string name="nicdesc">NIC</string>
+</resources>
